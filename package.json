@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "seed": "node seed.js",
-    "heroku-postbuild": "cd ../client && npm install --only=dev && npm install && npm run build"
+    "seed": "node seed.js"
   },
   "engines": {
     "node": "10.13.0"

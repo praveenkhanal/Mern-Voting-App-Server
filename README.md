@@ -1,5 +1,13 @@
 Application live at: https://mern-voting-client.herokuapp.com/
 
+## The polling app allows users to create multiple-choice polls.
+
+With Mern-Voting-App, users can create polls from scratch and allow them to add their own responses. Once users create a poll within the app they can see the results of vote in the form of chart. They can vote in their own poll and any other poll created by other user. Other users can vote, and the creator can view the results back in the  app.
+
+In addition to being a casual polling tool, This App can also be used to gather opinions to improve for better. For instance, it could be used for the responses from students in a school for polls related to topics such as breakfast cereals, juices, lunch menu etc. Brands like Starbuck can also create their own polls to gather feedback from consumers on their drinks.
+
+
+
 ## User Stories:
 
 ### If you are UnAuthenticated user:
